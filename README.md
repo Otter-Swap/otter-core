@@ -18,5 +18,5 @@ The protocol aggregates multiple liquidity pools and calculates the optimal trad
 
 ## Roadmap
 
-- Actively researching and developing support for additional blockchain networks.
-- Working on the development of LSD (liquidity staking derivatives) functionality to provide users with a more diverse range of services.
+- We are actively researching and developing support for additional blockchain networks.
+- And we're working on the development of LSD (liquidity staking derivatives) functionality to provide users with a more diverse range of services.
